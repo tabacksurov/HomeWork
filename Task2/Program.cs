@@ -9,6 +9,6 @@ Console.WriteLine("Введите второе число");
 int B = Convert.ToInt32(Console.ReadLine()!);
 if (A >= B) 
 {
-    Console.WriteLine("Первое число "+ A + "больше чем число " + B);
+    Console.WriteLine("Первое число "+ A + " больше чем второе число " + B);
 }
-else Console.WriteLine("Второе число " + B + "больше чем число " + A);
+else Console.WriteLine("Второе число " + B + " больше чем первое число " + A);
