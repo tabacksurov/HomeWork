@@ -3,12 +3,13 @@
 
 Console.WriteLine("Введите число я угодаю четное оно или нет");
 int number = Convert.ToInt32(Console.ReadLine())!;
+Console.Write("Ваше число " + number + "");
 if (number % 2 == 0)
 {
-    Console.WriteLine("Ваше число " + number + " четное");
+    Console.Write(" четное");
 } 
 else
 {
-    Console.WriteLine("Ваше число " + number + " нечетное");
+    Console.Write(" нечетное");
 }
 

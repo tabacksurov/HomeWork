@@ -6,9 +6,8 @@ Console.WriteLine("Введите второе число");
 int B = Convert.ToInt32(Console.ReadLine()!);
 Console.WriteLine("Введите третье число");
 int C = Convert.ToInt32(Console.ReadLine()!);
-int MAX = A;
-if (B > MAX) MAX = B;
-if (C > MAX) MAX = C;
-{
-    Console.WriteLine("Мы определили самое большое число которое Вы ввели это " + MAX);
-}
+int max = A;
+if (B > max) max = B;
+if (C > max) max = C;
+    Console.WriteLine("Мы определили самое большое число которое Вы ввели это " + max);
+
