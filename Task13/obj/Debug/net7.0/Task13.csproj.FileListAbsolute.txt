@@ -1,0 +1,14 @@
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\gb\c#\HomeWork\Task13\bin\Debug\net7.0\Task13.exe
+C:\gb\c#\HomeWork\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\gb\c#\HomeWork\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\gb\c#\HomeWork\Task13\bin\Debug\net7.0\Task13.dll
+C:\gb\c#\HomeWork\Task13\bin\Debug\net7.0\Task13.pdb
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.dll
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.pdb
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\gb\c#\HomeWork\Task13\obj\Debug\net7.0\ref\Task13.dll
