@@ -1,0 +1,14 @@
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.AssemblyInfoInputs.cache
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.AssemblyInfo.cs
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.csproj.CoreCompileInputs.cache
+C:\gb\c#\HomeWork\Task29\bin\Debug\net7.0\Task29.exe
+C:\gb\c#\HomeWork\Task29\bin\Debug\net7.0\Task29.deps.json
+C:\gb\c#\HomeWork\Task29\bin\Debug\net7.0\Task29.runtimeconfig.json
+C:\gb\c#\HomeWork\Task29\bin\Debug\net7.0\Task29.dll
+C:\gb\c#\HomeWork\Task29\bin\Debug\net7.0\Task29.pdb
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.dll
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\refint\Task29.dll
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.pdb
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\Task29.genruntimeconfig.cache
+C:\gb\c#\HomeWork\Task29\obj\Debug\net7.0\ref\Task29.dll
