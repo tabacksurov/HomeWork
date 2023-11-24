@@ -1,0 +1,14 @@
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.AssemblyInfoInputs.cache
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.AssemblyInfo.cs
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.csproj.CoreCompileInputs.cache
+C:\gb\c#\HomeWork\Task43\bin\Debug\net7.0\Task43.exe
+C:\gb\c#\HomeWork\Task43\bin\Debug\net7.0\Task43.deps.json
+C:\gb\c#\HomeWork\Task43\bin\Debug\net7.0\Task43.runtimeconfig.json
+C:\gb\c#\HomeWork\Task43\bin\Debug\net7.0\Task43.dll
+C:\gb\c#\HomeWork\Task43\bin\Debug\net7.0\Task43.pdb
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.dll
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\refint\Task43.dll
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.pdb
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\Task43.genruntimeconfig.cache
+C:\gb\c#\HomeWork\Task43\obj\Debug\net7.0\ref\Task43.dll
